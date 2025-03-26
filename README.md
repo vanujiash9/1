@@ -1,6 +1,4 @@
-Dưới đây là một ví dụ nội dung **README.md** cho dự án Boston Housing, được viết bằng **Markdown**. Bạn có thể tùy chỉnh tiêu đề, nội dung, hình ảnh, và link theo nhu cầu.
 
----
 
 # Dự án Phân tích & Dự đoán giá nhà Boston
 
